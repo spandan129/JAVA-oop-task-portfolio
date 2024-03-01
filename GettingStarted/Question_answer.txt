@@ -1,0 +1,22 @@
+a. What is the latest version of the Java SDK that is available?
+Answer:  The latest version of the Java SDK is Java 21, which was released on September 19, 2023.
+
+
+b. What is the difference between Java SE and Java ME?
+Answer: Java SE (Standard Edition) is designed for general-purpose development on desktops,
+laptops, and servers which provides a rich set of APIs for various functionalities like graphics,
+networking, and database access, whereas, Java ME (Micro Edition) is designed for resource-constrained devices
+like mobile phones and embedded systems which has a smaller footprint and a limited set of APIs compared to Java SE.
+
+
+c. Which operating system is Java available for?
+Answer: Windows, macOS, Linux, Solaris, AIX.
+
+
+d. What is the most popular IDE available for Java apart from Eclipse?
+Answer: IntelliJ IDEA.
+
+
+e. What is the main() function for in a Java program?
+Answer: The main() function is the entry point of a Java program where the execution of the program begins.
+The program searches for this function and starts running the code within it.
